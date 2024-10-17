@@ -1,0 +1,15 @@
+11:50:43.500 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Udaykumar\eclipse-workspace\OpenCartV1.0\master.xml"
+11:50:44.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Udaykumar\eclipse-workspace\OpenCartV1.0\master.xml
+
+11:51:00.595 [main] INFO  testCases.TC001_AccountsRegistration - ******  Test Started *****
+11:51:00.595 [main] INFO  testCases.TC001_AccountsRegistration - ****** Home page Started *****
+11:51:00.651 [main] INFO  testCases.TC001_AccountsRegistration - ****** Click On My account *****
+11:51:00.843 [main] INFO  testCases.TC001_AccountsRegistration - ****** Click on register *****
+11:51:01.696 [main] INFO  testCases.TC001_AccountsRegistration - ****** Registration page Started *****
+11:51:01.703 [main] INFO  testCases.TC001_AccountsRegistration - ******Customer Details *****
+11:51:04.221 [main] INFO  testCases.TC001_AccountsRegistration - ****** Validating Message *****
+11:51:04.324 [main] INFO  testCases.TC001_AccountsRegistration - *** Test Passed *****
+11:51:04.324 [main] INFO  testCases.TC001_AccountsRegistration - *** TC001 Test finished *****
+11:51:20.127 [main] INFO  testCases.TC002_LoginTest - **** Test Started ****
+11:51:22.585 [main] INFO  testCases.TC002_LoginTest - *** Test Finished ****
